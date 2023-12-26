@@ -1,1 +1,1 @@
-We have chosen two variant networks based on the Unet network structure for dealing with the defocusing problem for 2D and 3D fluorescence images, respectively, and the following are the corresponding codes
+We have selected a set of 8-layer BPAEC wildfield images and their corresponding groundtruth images for presentation. The sample is a thinner cell, typically about 5 µm thick, with a layer spacing of 200n.
