@@ -1,1 +1,4 @@
-The 2D network data samples consist of two types of data samples (two sets of mouse kidney section cell samples and two sets of Bovine Pulmonary Artery Endothelial Cell samples), which are augmented according to the methodology mentioned in the text and trained according to the network training methodology mentioned in the text. The experimental data samples used for the experiment have been uploaded in pairs to the 'widefield' and 'groundtruth' folders mentioned above.
+The 2D network data samples consist of two types of data samples 
+(two sets of mouse kidney section cell samples and two sets of Bovine Pulmonary Artery Endothelial Cell samples),
+which are augmented according to the methodology mentioned in paper. And the detailed training method can also be found in the paper.
+The experimental data samples used for the experiment have been uploaded in pairs to the 'widefield' and 'groundtruth' folders mentioned above.
