@@ -1,1 +1,4 @@
-This is the raw data used for the 3D data samples, and the specific data enhancement methods as well as the division of the training and test sets are described in more detail in the paper.
+We performed data augmentation based on a set of data samples from BPAEC to train the 3D network and achieved better network training results. 
+The data samples used for specific experiments have been uploaded to the 'widefield' and 'groundtruth' folders.
+From the theoretical point of view, it is possible to modify the network structure to get closer and more general experimental results, 
+which is also the direction of our future endeavours.
