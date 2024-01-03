@@ -1,1 +1,1 @@
-We have selected a set of 8-layer BPAEC wildfield images and their corresponding groundtruth images for presentation. The sample is a thinner cell, typically about 5 µm thick, with a layer spacing of 200n.
+The data samples include three-dimensional and two-dimensional data samples, and the data samples are augmented by data enhancement on the basis of the original data samples, and the specific images used in the experiments are shown in the ‘2d_image’ and ‘3d_image’.
